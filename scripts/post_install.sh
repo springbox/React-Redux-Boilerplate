@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -e
 
-cd ~/node
+cd ~
 npm install
 
 # setup NODE_ENV
