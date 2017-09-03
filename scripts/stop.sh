@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-cd ~/node
+cd ~
 forever stopall
