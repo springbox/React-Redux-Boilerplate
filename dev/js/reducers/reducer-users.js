@@ -14,11 +14,19 @@ export default function () {
             thumbnail: "https://i.pinimg.com/originals/a3/5e/8e/a35e8e7a3bb143868544c3a348aa94a0.jpg"
         },
         {
-            id: 1,
+            id: 2,
             first: "Auto",
-            last: "User",
+            last: "Bot",
             age: 5,
             description: "This autodeployed",
+            thumbnail: "https://i.pinimg.com/originals/a3/5e/8e/a35e8e7a3bb143868544c3a348aa94a0.jpg"
+        },
+        {
+            id: 3,
+            first: "Second Auto User",
+            last: "Decepticon",
+            age: 6,
+            description: "This autodeployed as well",
             thumbnail: "https://i.pinimg.com/originals/a3/5e/8e/a35e8e7a3bb143868544c3a348aa94a0.jpg"
         }
     ]
