@@ -12,6 +12,14 @@ export default function () {
             age: 42,
             description: "Testing autoscaling deploy of a react app",
             thumbnail: "https://i.pinimg.com/originals/a3/5e/8e/a35e8e7a3bb143868544c3a348aa94a0.jpg"
+        },
+        {
+            id: 1,
+            first: "Auto",
+            last: "User",
+            age: 5,
+            description: "This autodeployed",
+            thumbnail: "https://i.pinimg.com/originals/a3/5e/8e/a35e8e7a3bb143868544c3a348aa94a0.jpg"
         }
     ]
 }
