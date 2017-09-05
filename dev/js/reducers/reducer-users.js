@@ -25,7 +25,7 @@ export default function () {
             id: 3,
             first: "Second Auto User",
             last: "Decepticon",
-            age: 6,
+            age: 10,
             description: "This autodeployed as well",
             thumbnail: "https://i.pinimg.com/originals/a3/5e/8e/a35e8e7a3bb143868544c3a348aa94a0.jpg"
         }
